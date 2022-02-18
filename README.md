@@ -74,7 +74,7 @@ The main page looks like:
 ![Screenshot from 2022-02-18 20-11-19](https://user-images.githubusercontent.com/92577132/154719732-aafca512-e341-488e-8406-c261c09ec34f.png)
 
 
-Let's create a map of Elon Musk's friend
+Let's create a map of Elon Musk's friends
 
 ![Screenshot from 2022-02-18 20-11-41](https://user-images.githubusercontent.com/92577132/154719898-a7765cfb-452c-4169-93b8-146839ce14ca.png)
 
