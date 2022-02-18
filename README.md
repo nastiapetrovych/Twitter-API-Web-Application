@@ -45,17 +45,17 @@ My web site created on pythonanywhere
                                                                        
                                                                        
                                                                               About code:
- :one:    with my evaluated keys receive the json file with users' locations info
+ :one:    with my evaluated keys receive the json file with users' locations info with help of 'hidden.py' , 'twurl.py', 'oauth.py'.
  
  :two:  read it and convert to list of lists of username and location
  
- :three:  with geopy find the coordinates of user
+ :three:  with geopy find the coordinates of user twitte2.py'
  
- :four:   create the map with help of folium
+ :four:   create the map with help of folium  'my_map3.html'
  
- :five:   create html-file for web page
+ :five:   create html-file for web page 'run.html'
  
- :six:    create css file with description of image of web site
+ :six:    create css file with description of image of web site 'style.css'
  
  :seven:  connect html-file with css
  
